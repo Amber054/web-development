@@ -1,0 +1,35 @@
+/* cascading style sheet css */
+.name{
+    background-color: cadetblue;
+    width: 300px;
+    border: 3px double  black;
+}
+.hel{
+    background-color: brown;
+    border: 1px solid green;
+    /* margin-bottom: 2px; */
+    /* margin: 10px; */
+    /* margin : top/button right left */
+    /* margin: 10px 40px; */
+    margin: 10px 20px 30px 60px;
+
+}
+#hel1{
+    background-color: blueviolet;
+    border: 3px solid gray;
+    padding: 25px 50px 25px 50px;
+
+}
+#hel2{
+    border:3x solid black ;
+    padding: 25px 50px 25px 50px;
+}
+#hel3{
+    border: 6px dashed black;
+    padding: 40px 40px 40px 40px;
+
+}
+#hel4{
+    color: red;
+    font-size: 30px;
+}
